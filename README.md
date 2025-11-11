@@ -6,22 +6,24 @@ This repo charts the evolution of deep learning on structured data, from the 201
 
 ## 🚀 Quick Links
 
-  * **The Benchmark:** [RelBench (Stanford SNAP)](https://relbench.stanford.edu/) | [GitHub](https://github.com/snap-stanford/relbench)
-  * **Key Model Comparison:** [See the SOTA Architecture Analysis](https://www.google.com/search?q=%23-architectures-for-a-relational-foundation)
-  * **Open Problems:** [See the Future Research Roadmap](https://www.google.com/search?q=%23-the-new-frontier-open-problems)
+* **The Benchmark:** [RelBench (Stanford SNAP)](https://relbench.stanford.edu/) | [GitHub](https://github.com/snap-stanford/relbench)
+* **Key Model Comparison:** [See the SOTA Architecture Analysis](#v-architectures-for-a-relational-foundation)
+* **Open Problems:** [See the Future Research Roadmap](#viii-the-new-frontier-open-problems)
 
 ## Table of Contents
 
-1.  [The 2017 Bifurcation: Parallel Paths](https://www.google.com/search?q=%23-i-the-2017-bifurcation-parallel-paths)
-2.  [The GNN "Underground": Industrial Adoption](https://www.google.com/search?q=%23-ii-the-gnn-underground-industrial-adoption)
-3.  [The Bridge: Fusing Attention and Structure](https://www.google.com/search?q=%23-iii-the-bridge-fusing-attention-and-structure)
-4.  [The Relational Awakening: Formalizing RDL](https://www.google.com/search?q=%23-iv-the-relational-awakening-formalizing-rdl)
-5.  [Architectures for a Relational Foundation](https://www.google.com/search?q=%23-v-architectures-for-a-relational-foundation)
-6.  [Industrialization of RDL: Kumo.ai Case Study](https://www.google.com/search?q=%23-vi-the-industrialization-of-rdl-kumoai)
-7.  [A Generative Detour: Diffusion Models](https://www.google.com/search?q=%23-vii-a-generative-detour-diffusion-models)
-8.  [The New Frontier: Open Problems](https://www.google.com/search?q=%23-viii-the-new-frontier-open-problems)
-9.  [Contributing](https://www.google.com/search?q=%23-contributing)
-10. [Works Cited](https://www.google.com/search?q=%23-works-cited)
+## Table of Contents
+
+1.  [The 2017 Bifurcation: Parallel Paths](#i-the-2017-bifurcation-parallel-paths)
+2.  [The GNN "Underground": Industrial Adoption](#ii-the-gnn-underground-industrial-adoption)
+3.  [The Bridge: Fusing Attention and Structure](#iii-the-bridge-fusing-attention-and-structure)
+4.  [The Relational Awakening: Formalizing RDL](#iv-the-relational-awakening-formalizing-rdl)
+5.  [Architectures for a Relational Foundation](#v-architectures-for-a-relational-foundation)
+6.  [Industrialization of RDL: Kumo.ai Case Study](#vi-the-industrialization-of-rdl-kumoai)
+7.  [A Generative Detour: Diffusion Models](#vii-a-generative-detour-diffusion-models)
+8.  [The New Frontier: Open Problems](#viii-the-new-frontier-open-problems)
+9.  [Contributing](#-contributing)
+10. [Works Cited](#works-cited)
 
 -----
 
@@ -177,11 +179,6 @@ This is a living document and a community resource. Contributions are welcome\! 
 -----
 
 ## Works Cited
-
-## Works Cited
-
-## Works Cited
-
 [1]: https://arxiv.org/abs/1706.03762
 [2]: https://papers.nips.cc/paper/7181-attention-is-all-you-need
 [3]: https://papers.neurips.cc/paper/7181-attention-is-all-you-need.pdf
