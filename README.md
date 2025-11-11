@@ -1,6 +1,6 @@
 # The Relational Awakening: Foundational Models for Structured Data
 
-This repository is a one-stop shop and community-maintained resource for the emerging field of **Relational Deep Learning (RDL)**. It is based on the report, "The Relational Awakening: From Parallel Paths to Foundational Models for Structured Data."
+This repository is a one-stop shop and community-maintained resource for the emerging field of **Relational Deep Learning (RDL)**. 
 
 This repo charts the evolution of deep learning on structured data, from the 2017 divergence of Transformers (for unstructured data) and Graph Neural Networks (GNNs) to their modern synthesis in **Relational Foundation Models**.
 
