@@ -178,106 +178,111 @@ This is a living document and a community resource. Contributions are welcome\! 
 
 ## Works Cited
 
-[1] [1706.03762] Attention Is All You Need - arXiv
-[2] Attention is All you Need - NIPS papers
-[3] Attention is All you Need - NIPS papers (PDF)
-[4] GraphSAGE: Inductive Representation Learning on Large Graphs - SNAP: Stanford
-[5] [1706.02216] Inductive Representation Learning on Large Graphs - arXiv
-[6] williamleif/GraphSAGE - GitHub
-[7] Build a GNN-based real-time fraud detection solution - Amazon AWS
-[8] How AWS uses graph neural networks - Amazon Science
-[9] Analysing Privacy Policies... case studies of Tinder and Spotify - NIH
-[10] PyTorch Geometric - Read the Docs
-[11] pyg-team/pytorch\_geometric - GitHub
-[12] Do Transformers Really Perform Badly for Graph Representation? - NeurIPS
-[13] [2312.04615] Relational Deep Learning: Graph Representation Learning on Relational Databases - arXiv
-[14] ICML Poster Position: Relational Deep Learning - ICML 2025
-[15] RelBench: Relational Deep Learning Benchmark - RelBench
-[16] snap-stanford/relbench - GitHub
-[17] [2003.01332] Heterogeneous Graph Transformer - arXiv
-[18] [2505.10960] Relational Graph Transformer - arXiv
-[19] Integrating Temporal and Structural Context in Graph Transformers for RDL - arXiv
-[20] Griffin: Towards a Graph-Centric Relational Database Foundation Model - arXiv
-[21] Transformers Meet Relational Databases - arXiv
-[22] Kumo: The Ultimate Guide to Predictive AI on Relational Data - Skywork
-[23] KumoRFM: A Foundation Model for In-Context Learning on Relational Data - Kumo.ai
-[24] awesome-diffusion-models-for-tabular-data - GitHub
-[25] (PDF) RelDiff: Relational Data Generative Modeling... - ResearchGate
-[26] Graph foundation models for relational data - Google Research
-[27] Open Problems in Graph Neural Networks - Medium
-[28] On the Bottleneck of Graph Neural Networks - OpenReview
-[29] How Transformers Work - DataCamp
-[30] “Attention is all you need” in plain English - Medium
-[31] Attention Is All You Need — And All We’ve Lost - Medium
-[32] LLM Transformer Model Visually Explained - Polo Club of Data Science
-[33] Deep Graph Library
-[34] dmlc/dgl - GitHub
-[35] torch\_geometric.datasets - PyTorch Geometric
-[36] PyTorch Geometric vs Deep Graph Library - Medium
-[37] 7 Open Source Libraries for Deep Learning Graphs - Exxact Corporation
-[38] Build a GNN-based real-time fraud detection solution using... - Amazon AWS
-[39] [D] Are GNNs obsolete because of transformers? - Reddit
-[40] Comparative Analysis of GNNs and Transformers for Fake News Detection - MDPI
-[41] An Introduction to Graph Transformers - Kumo.ai
-[42] Graph Transformer — pytorch\_geometric documentation
-[43] Graph Transformer - Medium
-[44] The Relational Awakening... (ContextGNN → RELGT) - Medium
-[45] Self-Service ML with Relational Deep Learning - Medium
-[46] Relational Deep Learning: Challenges, Foundations... - arXiv
-[47] [2407.20060] RelBench: A Benchmark for Deep Learning on Relational Databases - arXiv
-[48] RelGNN: Composite Message Passing for RDL - GitHub
-[49] RelBench: A Benchmark for Deep Learning on Relational Database - Kumo AI
-[50] Heterogeneous Graph Generation... - arXiv
-[51] HHGT: Hierarchical Heterogeneous Graph Transformer - arXiv
-[52] Relational Graph Transformer - arXiv (v1)
-[53] Relative performance drop (%) when position encoding (PE) is removed... - ResearchGate
-[54] Runtime Comparison of HGT and HGT+PE... - ResearchGate
-[55] acbull/HGT-DGL - GitHub
-[56] acbull/pyHGT - GitHub
-[57] [2511.04557] Integrating Temporal and Structural Context... - arXiv
-[58] RGP: A Cross-Attention based Graph Transformer... - OpenReview
-[59] Integrating Temporal and Structural Context... (PDF) - OpenReview
-[60] [Papierüberprüfung] Integrating Temporal and Structural Context... - Moonlight
-[61] [Literature Review] Integrating Temporal and Structural Context... - Moonlight
-[62] (PDF) Integrating Temporal and Structural Context... - ResearchGate
-[63] Rishit-dagli/Perceiver - GitHub
-[64] krasserm/perceiver-io - GitHub
-[65] lucidrains/perceiver-pytorch - GitHub
-[66] Google's Griffin Architecture... - YouTube
-[67] Griffin: Towards a Graph-Centric... - OpenReview
-[68] Griffin: Towards a Graph-Centric... - arXiv (v2)
-[69] Griffin: Towards a Graph-Centric... (PDF) - Amazon Science
-[70] Griffin: Towards a Graph-Centric... - ResearchGate
-[71] yanxwb/Griffin - GitHub
-[72] DBFormer: A Dual-Branch Adaptive Remote Sensing... - ResearchGate
-[73] DBFormer: A Dual-Branch Adaptive... - Semantic Scholar
-[74] DBFormer: A Dual-Branch Adaptive Remote Sensing... - MDPI
-[75] Transformers Meet Relational Databases - arXiv (HTML)
-[76] Transformers Meet Relational Databases - ChatPaper
-[77] A Data-Centric AI Paradigm... - MDPI
-[78] Kumo: AI models for relational data
-[79] Kumo AI SaaS Security White Paper
-[80] Architecture and Security - Kumo Documentation
-[81] Graph Neural Networks (GNNs): Introduction and examples - Kumo.ai
-[82] Enabling Kumo's predictive AI natively in Snowflake
-[83] What model architectures does Kumo incorporate... - Kumo Docs
-[84] Hybrid Graph Neural Networks - Kumo.ai
-[85] Relational Graph Transformers - Kumo.ai
-[86] Growth and Marketing - Kumo.ai
-[87] Improving recommendation systems with LLMs and Graph Transformers - Kumo.ai
-[88] TabDDPM: Modelling Tabular Data with Diffusion Models - arXiv
-[89] TabDDPM: Modelling Tabular Data with Diffusion Models - PMLR
-[90] When to Use GenAI Versus Predictive AI - MIT Sloan
-[91] TabDiff: a Mixed-type Diffusion Model... - OpenReview
-[92] Relational Data Generation with GNNs and Latent Diffusion - OpenReview
-[93] RelDiff: Relational Data Generative Modeling... - arXiv
-[94] Diffusion Model for Relational Inference - arXiv
-[95] [2305.15321] Towards Foundation Models for Relational Databases [Vision Paper] - arXiv
-[96] Challenges and Trade-Offs for Graph Neural Networks - Oregon State
-[97] Relational Programming with Foundation Models - arXiv
-[98] On the Opportunities and Risks of Foundation Models - Stanford CRFM
-[99] Researchers at Stanford Present RelBench... - Reddit
-[100] Data-Centric AI vs. Model-Centric AI - MIT
-[101] PyG 2.0: Scalable Learning on Real World Graphs - arXiv
-[102] Graph Neural Networks for Databases: A Survey - arXiv
-[103] Graph Machine Learning Explainability with PyG - Medium
+## Works Cited
+
+## Works Cited
+
+[1]: https://arxiv.org/abs/1706.03762
+[2]: https://papers.nips.cc/paper/7181-attention-is-all-you-need
+[3]: https://papers.neurips.cc/paper/7181-attention-is-all-you-need.pdf
+[4]: https://snap.stanford.edu/graphsage/
+[5]: https://arxiv.org/abs/1706.02216
+[6]: https://github.com/williamleif/GraphSAGE
+[7]: https://aws.amazon.com/blogs/machine-learning/build-a-gnn-based-real-time-fraud-detection-solution-using-the-deep-graph-library-without-using-external-graph-storage/
+[8]: https://www.amazon.science/blog/how-aws-uses-graph-neural-networks-to-meet-customer-needs
+[9]: https://pmc.ncbi.nlm.nih.gov/articles/PMC11459776/
+[10]: https://pytorch-geometric.readthedocs.io/
+[11]: https://github.com/pyg-team/pytorch_geometric
+[12]: https://proceedings.neurips.cc/paper/2021/hash/f1c1592588411002af340cbaedd6fc33-Abstract.html
+[13]: https://arxiv.org/abs/2312.04615
+[14]: https://icml.cc/virtual/2024/poster/34733
+[15]: https://relbench.stanford.edu/
+[16]: https://github.com/snap-stanford/relbench
+[17]: https://arxiv.org/abs/2003.01332
+[18]: https://arxiv.org/abs/2505.10960
+[19]: https://arxiv.org/html/2511.04557v1
+[20]: https://arxiv.org/abs/2505.05568
+[21]: https://arxiv.org/pdf/2412.05218
+[22]: https://skywork.ai/skypage/en/Kumo-The-Ultimate-Guide-to-Predictive-AI-on-Relational-Data/1976549405707268096
+[23]: https://kumo.ai/research/kumo_relational_foundation_model.pdf
+[24]: https://github.com/Diffusion-Model-Leiden/awesome-diffusion-models-for-tabular-data
+[25]: https://www.researchgate.net/publication/392334481_RelDiff_Relational_Data_Generative_Modeling_with_Graph-Based_Diffusion_Models
+[26]: https://research.google/blog/graph-foundation-models-for-relational-data/
+[27]: https://medium.com/@nikitaparate9/open-problems-in-graph-neural-networks-58e65bf044c
+[28]: https://openreview.net/forum?id=i80OPhOCVH2
+[29]: https://www.datacamp.com/tutorial/how-transformers-work
+[30]: https://medium.com/@ujwaltickoo/attention-is-all-you-need-in-plain-english-b176d1ad4ada
+[31]: https://medium.com/@amjad.shaikh/attention-is-all-you-need-and-all-weve-lost-bf0d38237628
+[32]: https://poloclub.github.io/transformer-explainer/
+[33]: https://www.dgl.ai/
+[34]: https://github.com/dmlc/dgl
+[35]: https://pytorch-geometric.readthedocs.io/en/2.6.0/modules/datasets.html
+[36]: https://medium.com/@khang.pham.exxact/pytorch-geometric-vs-deep-graph-library-626ff1e802
+[37]: https://www.exxactcorp.com/blog/Deep-Learning/open-source-libraries-for-deep-learning-graphs
+[38]: https://aws.amazon.com/blogs/machine-learning/build-a-gnn-based-real-time-fraud-detection-solution-using-amazon-sagemaker-amazon-neptune-and-the-deep-graph-library/
+[39]: https://www.reddit.com/r/MachineLearning/comments/1jgwjjk/d_are_gnns_obsolete_because_of_transformers/
+[40]: https://www.mdpi.com/2079-9292/13/23/4784
+[41]: https://kumo.ai/research/introduction-to-graph-transformers/
+[42]: https://pytorch-geometric.readthedocs.io/en/latest/tutorial/graph_transformer.html
+[43]: https://medium.com/@reutdayan1/graph-transformer-2ede65db4658
+[44]: https://medium.com/dataai/the-relational-awakening-pair-wise-gnns-to-transformer-backbones-contextgnn-relgt-2403ecaaeace
+[45]: https://medium.com/data-science/self-service-ml-with-relational-deep-learning-beb693a21d5b
+[46]: https://arxiv.org/html/2506.16654v1
+[47]: https://arxiv.org/abs/2407.20060
+[48]: https://github.com/snap-stanford/RelGNN
+[49]: https://kumo.ai/research/relbench/
+[50]: https://arxiv.org/html/2410.11972
+[51]: https://arxiv.org/html/2407.13158v1
+[52]: https://arxiv.org/html/2505.10960v1
+[53]: https://www.researchgate.net/figure/Relative-performance-drop-when-position-encoding-PE-is-removed-from-HGT-PE-models_tbl4_391856673
+[54]: https://www.researchgate.net/figure/Runtime-Comparison-of-HGT-and-HGT-PE-baseline-Adding-the-Laplacian-Positional-Encoding_fig1_391856673
+[55]: https://github.com/acbull/HGT-DGL
+[56]: https://github.com/acbull/pyHGT
+[57]: https://arxiv.org/abs/2511.04557
+[58]: https://openreview.net/pdf?id=fcVIJ2WSIX
+[59]: https://openreview.net/pdf/f3cde5eb6202e1a6d509de5b87ca7fd1e074790e.pdf
+[60]: https://www.themoonlight.io/de/review/integrating-temporal-and-structural-context-in-graph-transformers-for-relational-deep-learning
+[61]: https://www.themoonlight.io/review/integrating-temporal-and-structural-context-in-graph-transformers-for-relational-deep-learning
+[62]: https://www.researchgate.net/publication/397365799_Integrating_Temporal_and_Structural_Context_in_Graph_Transformers_for_Relational_Deep_Learning
+[63]: https://github.com/Rishit-dagli/Perceiver
+[64]: https://github.com/krasserm/perceiver-io
+[65]: https://github.com/lucidrains/perceiver-pytorch
+[66]: https://www.youtube.com/watch?v=Zkfqr0AmGGA
+[67]: https://github.com/yanxwb/Griffin
+[68]: https://arxiv.org/html/2505.05568v2
+[69]: https://assets.amazon.science/5f/e5/27c801c445cfa9d8d3a167f47861/griffin-towards-a-graph-centric-relational-database-foundation-model.pdf
+[70]: https://www.researchgate.net/publication/391657707_Griffin_Towards_a_Graph-Centric_Relational_Database_Foundation_Model
+[71]: https://github.com/yanxwb/Griffin
+[72]: https://www.researchgate.net/publication/393080176_DBFormer_A_Dual-Branch_Adaptive_Remote_Sensing_Image_Resolution_Fine-Grained_Weed_Segmentation_Network
+[73]: https://www.semanticscholar.org/paper/DBFormer%3A-A-Dual-Branch-Adaptive-Remote-Sensing-She-Tang/d3bda59cb5a40e1b19ee1572ceabdb689f779d2e
+[74]: https://www.mdpi.com/2072-4292/17/13/2203
+[75]: https://arxiv.org/html/2412.05218v1
+[76]: https://chatpaper.com/paper/88358
+[77]: https://www.mdpi.com/2079-9292/13/11/2156
+[78]: https://kumo.ai/
+[79]: https://kumo.ai/docs/security-and-governance/
+[80]: https://docs.kumo.ai/docs/architecture-and-security
+[81]: https://kumo.ai/research/graph-neural-networks-gnn/
+[82]: https://kumo.ai/company/news/enabling-kumos-predictive-ai-natively-in-snowflake/
+[83]: https://kumo.ai/docs/troubleshooting/what-model-architectures-does-kumo-incorporate-into-its-gnn-design-search-space/
+[84]: https://kumo.ai/research/hybrid-graph-neural-networks/
+[85]: https://kumo.ai/research/relational-graph-transformers/
+[86]: https://kumo.ai/docs/examples/growthmarketing/
+[87]: https://kumo.ai/research/recommendation-systems-llms-graph-transformers/
+[88]: https://arxiv.org/html/2209.15421v2
+[89]: https://proceedings.mlr.press/v202/kotelnikov23a/kotelnikov23a.pdf
+[90]: https://sloanreview.mit.edu/article/when-to-use-genai-versus-predictive-ai/
+[91]: https://openreview.net/forum?id=swvURjrt8z
+[92]: https://openreview.net/pdf?id=MNLR2NYN2Z
+[93]: https://arxiv.org/html/2506.00710v1
+[94]: https://arxiv.org/html/2401.16755v2
+[95]: https://arxiv.org/abs/2305.15321
+[96]: https://engineering.oregonstate.edu/events/challenges-and-trade-offs-graph-neural-networks
+[97]: https://arxiv.org/html/2412.14515v1
+[98]: https://crfm.stanford.edu/report.html
+[99]: https://www.reddit.com/r/machinelearningnews/comments/1egf3z2/researchers_at_stanford_present_relbench_an_open/
+[100]: https://dcai.csail.mit.edu/2024/data-centric-model-centric/
+[101]: https://arxiv.org/html/2507.16991v1
+[102]: https://arxiv.org/html/2502.12908v1
+[103]: https://medium.com/@pytorch_geometric/graph-machine-learning-explainability-with-pyg-ff13cffc23c2
+
