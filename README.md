@@ -159,7 +159,7 @@ This timeline shows how each new architecture was built to solve the problems of
 Based on the latest papers, the "state-of-the-art" (SOTA) is fragmented because different models are now solving for different *goals*:
 
 * **For Pure Benchmark Performance (RelBench):** **RGP (Relational Graph Perceiver)** [23] is the new SOTA. Its paper (released November 2025) is the most recent and claims to "consistently outperform RelGT" by better-modeling time.
-* **For Generalization & Transfer Learning:** **Griffin** [24] is the SOTA. It's the first true *foundation model* designed to be pre-trained and then fine-tuned for new tasks, which no other model is designed for.
+* **For Generalization & Transfer Learning:** **Griffin** [24] and **Relational Transformer (RT)** [21]  are the SOTA. It's the first gen true *foundation models* designed to be pre-trained and then fine-tuned for new tasks.  
 * **For "Non-Graph" Neuro-Symbolic Approaches:** **DBFormer** [26] is the SOTA. It represents a completely different, "graph-less" path that models relational algebra directly.
 * **For "Set-Based" (Non-Graph) Approaches:** The **Relational Transformer (RT)** [21] is the SOTA for this paradigm, which avoids GNNs entirely and instead models relations using "join embeddings."
 
