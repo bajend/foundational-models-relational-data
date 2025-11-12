@@ -147,10 +147,10 @@ This timeline shows how each new architecture was built to solve the problems of
     * **Solution:** **RGP** [23] uses a Perceiver architecture with an *active temporal sampler* that can look back and find distant-but-relevant events, fusing them with the local structural information.
     * **Impact:** As of November 2025, RGP is the new SOTA on RelBench, proving that specialized temporal reasoning is a key for high performance on enterprise data.
 
-6.  **The Generalists: Griffin (The Foundation Model)**
+6.  **The Generalists: Griffin & RT (The Foundation Model)**
     * **Problem:** All the models above are trained *from scratch* for *one task* on *one database*. They can't generalize (the "generalization chasm" [43]).
-    * **Solution:** **Griffin** [24] is the first model designed as a true *foundation model*. It's pre-trained on a "masked value completion" task across many tables and DBs.
-    * **Impact:** This is the first model that can be fine-tuned for new tasks, especially in low-data scenarios. It represents the entire field's shift from task-specific models to true, general-purpose relational intelligence.
+    * **Solution:** **Griffin** [24] is the first model designed as a true *foundation model*. It's pre-trained on a "masked value completion" task across many tables and DBs.**Relational Transformer (RT)** [21] is another one with pretrained model with stong transfer learning abilities.  
+    * **Impact:** Griffin and RT are first gen pre trained models that can be fine-tuned for new tasks, especially in low-data scenarios. It represents the entire field's shift from task-specific models to true, general-purpose relational intelligence.
 
 ---
 
